@@ -4,3 +4,9 @@ Hello! My name is Vidhya Biradar. I am currently pursuing Computer Science Engin
 Learning C programming
 Interested in database management
 Goal: Become a skilled software developer
+
+
+## Projects
+
+- **C Programming Projects:** Developed programs using arrays, pointers, and linked lists in C.
+- **Database Management:** Practiced SQL queries and database operations using MySQL.
